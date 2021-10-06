@@ -9,6 +9,6 @@ public class ReservationTest {
     @Test
     @DisplayName("This is a fake test.")
     void fakeTest() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }
